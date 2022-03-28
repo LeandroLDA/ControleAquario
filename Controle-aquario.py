@@ -12,3 +12,4 @@ vent = bool
 
 if (temp_int >= (temp_ext + 3.0)):
 vent = true
+print("Ventilação forçada ativa")
